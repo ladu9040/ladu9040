@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend development<br>👯 I’m looking to collaborate on Backend devloper<br>🌱 I’m currently learning Frontend Frameworks<br>💬 Ask me about Frontend Coding<br>⚡ Fun fact - i love to code but not more than watching anime
+🔭 I’m currently working on Frontend development<br>👯 I’m looking to collaborate with a Backend devloper<br>🌱 I’m currently learning Frontend Frameworks<br>💬 Ask me about Frontend Coding<br>⚡ Fun fact - i love to code but not more than watching anime
 
 
 ## 🌐 Socials:
